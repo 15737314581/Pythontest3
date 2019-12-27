@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../jiekou/.idea/jiekou.iml" filepath="$PROJECT_DIR$/../jiekou/.idea/jiekou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../seleniumchrome/.idea/seleniumchrome.iml" filepath="$PROJECT_DIR$/../seleniumchrome/.idea/seleniumchrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web自动化/.idea/web自动化.iml" filepath="$PROJECT_DIR$/../web自动化/.idea/web自动化.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/第一天的代码.iml" filepath="$PROJECT_DIR$/.idea/第一天的代码.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../第二天的代码/.idea/第二天的代码.iml" filepath="$PROJECT_DIR$/../第二天的代码/.idea/第二天的代码.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../第四天的代码/.idea/第四天的代码.iml" filepath="$PROJECT_DIR$/../第四天的代码/.idea/第四天的代码.iml" />
+    </modules>
+  </component>
+</project>
